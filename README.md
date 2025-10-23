@@ -1,4 +1,4 @@
-# Algorithmic Decision Systems - Projects
+# Algorithmic Decision Systems
 
 This repository contains three projects in the field of algorithmic decision systems, each addressing different problems in game theory, optimization, and machine learning.
 
